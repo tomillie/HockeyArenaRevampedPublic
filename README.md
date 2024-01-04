@@ -1,4 +1,7 @@
 > This repository is used to track issues and ideas for the **HockeyArena Revamped** web extension.
+> - [Roadmap](https://github.com/users/tomillie/projects/4/views/2)
+> - [Idea bag](https://github.com/users/tomillie/projects/4/views/3)
+> - [Bugs](https://github.com/users/tomillie/projects/4/views/4)
 
 <br />
 
