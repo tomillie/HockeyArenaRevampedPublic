@@ -1,0 +1,1 @@
+Once everyone is on the v5+, the assets in this folder can be removed as they are now served from Azure Blob Storage.
